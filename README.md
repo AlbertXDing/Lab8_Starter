@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+No partners
+
 1. Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
     Within a Github Action that runs whenenver code is pushed. This prevents committing buggy code, but is also faster and less error prone than running tests manually.
 2. No
