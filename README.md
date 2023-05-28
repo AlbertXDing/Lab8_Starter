@@ -8,4 +8,4 @@ No partners
 3. Yes, just the message feature is a component of a messaging application, so using a unit test to test this independently would be useful.
 4. Yes, determining the maximum length of a message is an individual component of a messaging application, so a unit test would be useful.
 
-Screenshot file names: lab8test.png, sumtest.png, unittest.png
+Screenshot file names(in root): lab8test.png, sumtest.png, unittest.png
